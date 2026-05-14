@@ -1,4 +1,4 @@
-# 🐚 MyShell — A Custom Unix Shell in C
+#  MyShell — A Custom Unix Shell in C
 
 > A feature-rich, POSIX-inspired shell built from scratch in C, complete with job control, pipelines, I/O redirection, command history, aliases, a virtual filesystem, and CPU scheduling simulations.
 
